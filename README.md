@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 Currently building a website which lets players create romms and play chess.
 
-- 🔭 I’m currently working on Web development.
+- 🔭 I’m currently working on Web development and building my portfolio.
 - 🌱 I’m currently learning Golang.
 - 💬 Ask me about Web development.
 - 📫 How to reach me: sarmakapil1817@gmail.com
