@@ -9,7 +9,6 @@ I am simple, passionate developer from India :)
 <p>🌱 I'm currently learning Web3</p>
 <p>💬 Ask me about Full stack development</p>
 <p>📫 How to reach me? sarmakapil1817@gmail.com</p>
-<p>I regularly write articles on <a href="">kapilsarma.live</a></p>
 <p>⚡ Fun Fact: I love cricket</p>
 
 ## 💻 Skills
@@ -49,8 +48,6 @@ I am simple, passionate developer from India :)
 </p>
 
 ## 📊 Github Status
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=kapilsarma2002"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kapilsarma2002&show_icons=true"><p>
 
