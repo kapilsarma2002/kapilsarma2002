@@ -3,7 +3,7 @@
 I am simple, passionate developer from India :)
 
 # 💫 About Me:
-🔭 I’m currently working on building a Bhagawad gita website which lets users read gita and keep track of what they are reading, using Nextjs, prisma and tailwind, integrated with AI<br>👯 I’m looking to collaborate on Nextjs and React<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning to build web applications integrated with AI <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact : I love cricket and I am pretty good at playing it and chess as well :)
+🔭 I’m currently working on building a Bhagawad gita website which lets users read gita and keep track of what they are reading, using Nextjs, prisma and tailwind, integrated with AI (OPENAI)<br>👯 I’m looking to collaborate on Nextjs and React Projects<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning to build web applications integrated with AI <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact : I love cricket and I am pretty good at playing it and chess as well :)
 
 
 ## 🌐 Socials:
