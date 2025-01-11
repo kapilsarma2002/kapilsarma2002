@@ -3,7 +3,7 @@
 I am simple, passionate developer from India :)
 
 # 💫 About Me:
-🔭 I’m currently working on learning web-3<br>👯 I’m looking to collaborate on Nextjs and React Projects<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning to build web applications integrated with AI <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact : I love cricket and I am pretty good at playing it and chess as well :)
+🔭 I’m currently working on learning AL / ML<br>👯 I’m looking to collaborate on Nextjs and React Projects<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning to build web applications integrated with AI <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact : I love cricket and I am pretty good at playing it and chess as well :)
 
 
 ## 🌐 Socials:
